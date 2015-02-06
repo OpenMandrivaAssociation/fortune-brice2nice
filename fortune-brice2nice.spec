@@ -1,7 +1,7 @@
 %define base_name	brice2nice
 %define name		fortune-%{base_name}
 %define version		0.2
-%define release		%mkrel 7
+%define release		8
 
 Name:		%{name}
 Version:	%{version}
