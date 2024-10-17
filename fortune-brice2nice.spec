@@ -10,7 +10,7 @@ Summary:	Brice de nice sketches
 License:	Public Domain
 Group:		Toys
 Source:		%{name}.tar.bz2
-Url:		http://www.tom.free.fr/src/brice2nice
+Url:		https://www.tom.free.fr/src/brice2nice
 BuildArch:	noarch
 Buildroot:	%{_tmppath}/%{name}-buildroot
 Requires:	fortune-mod
