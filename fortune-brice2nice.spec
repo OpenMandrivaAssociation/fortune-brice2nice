@@ -15,6 +15,7 @@ BuildArch:	noarch
 Buildroot:	%{_tmppath}/%{name}-buildroot
 Requires:	fortune-mod
 
+BuildRequires:	make
 BuildRequires: fortune-mod
 
 %description
